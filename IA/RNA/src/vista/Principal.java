@@ -71,7 +71,7 @@ public class Principal extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("¿Será Manzana o Piña?");
 
-        panM1.setBackground(new java.awt.Color(255, 255, 255));
+        panM1.setBackground(new java.awt.Color(244, 244, 244));
         panM1.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panM1.setToolTipText("ddddddddddddd");
 
@@ -86,7 +86,7 @@ public class Principal extends javax.swing.JFrame {
             .addGap(0, 100, Short.MAX_VALUE)
         );
 
-        panM2.setBackground(new java.awt.Color(255, 255, 255));
+        panM2.setBackground(new java.awt.Color(244, 244, 244));
         panM2.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         javax.swing.GroupLayout panM2Layout = new javax.swing.GroupLayout(panM2);
@@ -100,7 +100,7 @@ public class Principal extends javax.swing.JFrame {
             .addGap(0, 100, Short.MAX_VALUE)
         );
 
-        panM3.setBackground(new java.awt.Color(255, 255, 255));
+        panM3.setBackground(new java.awt.Color(244, 244, 244));
         panM3.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         javax.swing.GroupLayout panM3Layout = new javax.swing.GroupLayout(panM3);
@@ -114,7 +114,7 @@ public class Principal extends javax.swing.JFrame {
             .addGap(0, 100, Short.MAX_VALUE)
         );
 
-        panP2.setBackground(new java.awt.Color(255, 255, 255));
+        panP2.setBackground(new java.awt.Color(244, 244, 244));
         panP2.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         javax.swing.GroupLayout panP2Layout = new javax.swing.GroupLayout(panP2);
@@ -128,7 +128,7 @@ public class Principal extends javax.swing.JFrame {
             .addGap(0, 100, Short.MAX_VALUE)
         );
 
-        panP1.setBackground(new java.awt.Color(255, 255, 255));
+        panP1.setBackground(new java.awt.Color(244, 244, 244));
         panP1.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         javax.swing.GroupLayout panP1Layout = new javax.swing.GroupLayout(panP1);
@@ -142,7 +142,7 @@ public class Principal extends javax.swing.JFrame {
             .addGap(0, 103, Short.MAX_VALUE)
         );
 
-        panP3.setBackground(new java.awt.Color(255, 255, 255));
+        panP3.setBackground(new java.awt.Color(244, 244, 244));
         panP3.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         javax.swing.GroupLayout panP3Layout = new javax.swing.GroupLayout(panP3);
